@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598849562959",
+    "project_id": "fir-434e6",
+    "storage_bucket": "fir-434e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598849562959:android:37ac2f12456e1d6dcb3d3a",
+        "android_client_info": {
+          "package_name": "com.example.the_kost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598849562959-i5c8dgo2ki4j90g5u952q50lugimggej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNrvOCtEw0ETmAqCDG6SajciDNQ5vnDO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598849562959-i5c8dgo2ki4j90g5u952q50lugimggej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
