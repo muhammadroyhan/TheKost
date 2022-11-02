@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:the_kost/pages/Navigator_Screen.dart';
 import 'package:the_kost/pages/home_screen.dart';
 import 'package:the_kost/pages/login_screen.dart';
+import 'package:the_kost/pages/profil_screen.dart';
 import 'package:the_kost/pages/splash_screen.dart';
 
 void main() async {
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.lightBlue,
       ),
-      home: SplashScreen(),
+      home: NavigatorScreen(),
     );
   }
 }
